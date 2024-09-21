@@ -8,8 +8,7 @@ The purpose of the project is to get started with the Exploratory Data Analysis 
 
 # MATERIALS ATTACHED
 1. Dataset used in the project
-2. Description of the features used
-3. Project code
+2. Project code
 
 # TOOLS AND LIBRARIES USED 
 1. JUPYTER NOTEBOOK
